@@ -30,6 +30,10 @@ There is also an admin access(admin_area) to add,remove products from the menu a
 
 The remaining folders contain the codes for the db connection, bootstrap, javascript,etc.
 
+
+
+Feel free to clone this repository 
+
 Any design improvements are highly appreciated
 
 
