@@ -1,8 +1,7 @@
 # canteen-management-system
 
 
-
-https://i.gifer.com/origin/2f/2f1604de602a0d0aa8005fa4c9c56c49.gif
+![image](https://user-images.githubusercontent.com/57531506/214568320-ca283547-e5be-4090-ae51-688a5b4b7270.png)
 
 
 
