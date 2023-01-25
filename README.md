@@ -1,9 +1,26 @@
 # canteen-management-system
 
+
+
+https://i.gifer.com/origin/2f/2f1604de602a0d0aa8005fa4c9c56c49.gif
+
+
+
+
 This software system is a Canteen Management System for the students and faculty members of any college. This system will be designed to minimize the queues in the canteen and make hassle-free payments using the unique id provided to the students and the faculty by the college.
 
+steps.................................................
+clone this repository or download the archive zip file
 
-Overview:
+First of all unzip the file and place it in the htdocs folder(you should have installed XAMPP prior to this procedure)  
+then create a database called 'ecommerce'(without the quotes), then import the ecommerce.sql file to the databse 
+
+once your done importing direct your browser to the following address
+
+http://localhost:8080/cafeteria-portal-master
+
+OVERVIEW
+
 
 The pages accessible by the customers include the home page(index.php), full menu (full_menu.php), login (customer_login), register (customer_register.php) and detail of the team(about_us.php)
 
